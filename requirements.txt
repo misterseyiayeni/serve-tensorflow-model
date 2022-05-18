@@ -3,3 +3,4 @@ numpy
 matplotlib
 pylint
 requests
+mnist_input_data
