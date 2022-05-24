@@ -3,4 +3,5 @@ numpy
 matplotlib
 pylint
 requests
-mnist_input_data
+#mnist_input_data
+transformers[sentencepiece]
